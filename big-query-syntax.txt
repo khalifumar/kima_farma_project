@@ -6,7 +6,7 @@ SELECT
   kc.branch_name,
   kc.kota,
   kc.provinsi,
-  kc.rating AS rating_cabang,a
+  kc.rating AS rating_cabang,
   t.customer_name,
   t.product_id,
   p.product_name,
